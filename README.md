@@ -1,7 +1,3 @@
-# Predictive-Analytics-of-Credit-Card-Risk
-
-This is the detailed report showing the credit card risk assessment uisng differnt machine learning models. This was conducted using Rapidminer software. 
-
 # Predictive Analytics for Credit Risk Assessment
 
 This project focuses on predictive analytics for assessing credit risk in loan applicants. The goal is to build a model that classifies loan applicants into "Good" or "Bad" credit standing based on various attributes such as credit history, savings, account balance, and employment status. This was conducted using Rapidminer software and Python.
